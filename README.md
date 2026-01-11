@@ -1,6 +1,7 @@
-Researcher @ KiharaLab 
 
-SWE Intern @ Spring Education
+SWE Intern @ NI/Emerson, Spring Education
+
+Researcher @ KiharaLab 
 
 Data Science @ Purdue University
 
