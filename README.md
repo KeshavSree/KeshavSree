@@ -1,5 +1,5 @@
 
-SWE Intern @ NI/Emerson, Spring Education
+SWE Intern @ NI/Emerson
 
 Researcher @ KiharaLab 
 
