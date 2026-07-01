@@ -1,7 +1,7 @@
 
-SWE Intern @ NI/Emerson
+SWE Intern @ NI/Emerson, prev @ Spring Education
 
-Researcher @ KiharaLab 
+VP of Marketing @ Purdue Stack
 
 Data Science @ Purdue University
 
