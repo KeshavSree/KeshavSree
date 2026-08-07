@@ -3,6 +3,8 @@ SWE Intern @ NI/Emerson, prev @ Spring Education
 
 VP of Marketing @ Purdue Stack
 
+Director of Accelerator @ ML @ Purdue
+
 Data Science @ Purdue University
 
 
