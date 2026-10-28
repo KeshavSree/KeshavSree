@@ -5,7 +5,7 @@ VP of Marketing @ Purdue Stack
 
 Director of Accelerator @ ML @ Purdue
 
-Data Science @ Purdue University
+Data Science (Computer Science) @ Purdue University
 
 
 
