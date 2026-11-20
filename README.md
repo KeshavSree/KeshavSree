@@ -4,7 +4,7 @@ I've built entire tools used by 30% of the Fortune 100 and my solo initiatives h
 
 At Purdue, I'm a founding member and VP of Marketing @ Purdue Stack and Director of Accelerator @ ML@Purdue.
 
-<p><a href="https://www.keshavsreekantham.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/website-link-dark.svg"><img src="images/website-link-light.svg" alt="keshavsreekantham.com" width="152" height="24" align="right"></picture></a>I'm <a href="https://www.keshavsreekantham.com/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="images/always-building-dark.gif"><source media="(prefers-color-scheme: light)" srcset="images/always-building-light.gif"><img src="images/always-building-light.gif" alt="always building." width="125" height="24" align="absmiddle"></picture></a></p>
+<p><a href="https://www.keshavsreekantham.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/website-link-dark.svg"><img src="images/website-link-light.svg" alt="keshavsreekantham.com" width="152" height="24" align="right"></picture></a><a href="https://www.keshavsreekantham.com/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="images/intro-building-dark.gif"><source media="(prefers-color-scheme: light)" srcset="images/intro-building-light.gif"><img src="images/intro-building-light.gif" alt="I'm always building." width="130" height="24" align="absmiddle"></picture></a></p>
 
 <table>
   <tr>
