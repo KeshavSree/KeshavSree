@@ -4,12 +4,12 @@ I've built entire tools used by 30% of the Fortune 100 and my solo initiatives h
 
 At Purdue, I'm a founding member and VP of Marketing @ Purdue Stack and Director of Accelerator @ ML@Purdue.
 
-<p>I'm <a href="https://www.keshavsreekantham.com/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="images/always-building-dark.gif"><source media="(prefers-color-scheme: light)" srcset="images/always-building-light.gif"><img src="images/always-building-light.gif" alt="always building." width="125" height="24" align="absmiddle"></picture></a> See below.</p>
+<p><a href="https://www.keshavsreekantham.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/website-link-dark.svg"><img src="images/website-link-light.svg" alt="keshavsreekantham.com" width="152" height="24" align="right"></picture></a>I'm <a href="https://www.keshavsreekantham.com/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="images/always-building-dark.gif"><source media="(prefers-color-scheme: light)" srcset="images/always-building-light.gif"><img src="images/always-building-light.gif" alt="always building." width="125" height="24" align="absmiddle"></picture></a></p>
 
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://www.keshavsreekantham.com/"><picture><source media="(max-width: 767px)" srcset="images/website-phone.gif"><img src="images/website.gif" width="100%" height="166" alt="Keshav’s interactive portfolio"></picture></a><br>
+      <a href="https://www.keshavsreekantham.com/"><picture><source media="(max-width: 767px)" srcset="images/portfolio-composition-phone.webp"><img src="images/portfolio-composition.webp" width="100%" height="166" alt="Keshav’s interactive portfolio"></picture></a><br>
       <sup>keshavsreekantham.com</sup>
     </td>
   </tr>
