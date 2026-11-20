@@ -8,39 +8,39 @@ At Purdue, I'm a founding member and VP of Marketing @ Purdue Stack and Director
 
 <table>
   <tr>
-    <td colspan="2">
-      <a href="https://www.keshavsreekantham.com/"><img src="images/website.jpg" width="100%" alt="Keshav's website — an interactive architectural portfolio"></a><br>
-      <sup><strong>Website:</strong> <a href="https://www.keshavsreekantham.com/">keshavsreekantham.com</a></sup>
+    <td colspan="2" valign="top">
+      <a href="https://www.keshavsreekantham.com/"><picture><source media="(max-width: 767px)" srcset="images/website-mobile.gif"><img src="images/website.gif" width="100%" height="166" alt="Keshav’s interactive portfolio"></picture></a><br>
+      <sup>keshavsreekantham.com</sup>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://www.clubrecruiter.app/home"><img src="images/clubrecruiter.jpg" width="100%" alt="ClubRecruiter marketing and recruitment platform"></a><br>
-      <sup><strong>Website:</strong> <a href="https://www.clubrecruiter.app/home">ClubRecruiter</a></sup>
+    <td width="50%" valign="top">
+      <a href="https://www.clubrecruiter.app/home"><picture><source media="(max-width: 767px)" srcset="images/clubrecruiter-mobile.gif"><img src="images/clubrecruiter.gif" width="100%" height="166" alt="ClubRecruiter — scrolling platform preview"></picture></a><br>
+      <sup><strong>ClubRecruiter:</strong> 3000+ Users, 8 Organizations</sup>
     </td>
-    <td width="50%">
-      <a href="https://www.keshavsreekantham.com/#projects/tara"><img src="images/tara.jpg" width="100%" alt="Tara personal assistant project on Keshav's portfolio"></a><br>
-      <sup><strong>Portfolio:</strong> <a href="https://www.keshavsreekantham.com/#projects/tara">Tara</a></sup>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://www.purduestack.org/"><img src="images/stack.jpg" width="100%" alt="Purdue Stack website"></a><br>
-      <sup><strong>Website:</strong> <a href="https://www.purduestack.org/">Stack Website</a></sup>
-    </td>
-    <td width="50%">
-      <a href="https://devcities.dev/"><img src="images/devcities.jpg" width="100%" alt="DevCities interactive 3D city of developers"></a><br>
-      <sup><strong>Website:</strong> <a href="https://devcities.dev/">DevCities</a></sup>
+    <td width="50%" valign="top">
+      <a href="https://www.keshavsreekantham.com/#projects/tara"><picture><source media="(max-width: 767px)" srcset="images/tara-mobile.gif"><img src="images/tara.gif" width="100%" height="166" alt="Tara — illustrated categorization and automatic task completion"></picture></a><br>
+      <sup><strong>Tara:</strong> 20+ integrations → Auto Completing Todo List</sup>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://kiharalab.org/pfp"><img src="images/kiharalab.jpg" width="100%" alt="KiharaLab protein function prediction server"></a><br>
-      <sup><strong>Website:</strong> <a href="https://kiharalab.org/pfp">KiharaLab</a></sup>
+    <td width="50%" valign="top">
+      <a href="https://www.purduestack.org/"><picture><source media="(max-width: 767px)" srcset="images/stack-mobile.gif"><img src="images/stack.gif" width="100%" height="166" alt="Stack — Build with Impact. Build Together. Build at Stack."></picture></a><br>
+      <sup><strong>Stack Website:</strong> 30k+ Views</sup>
     </td>
-    <td width="50%">
-      <a href="https://devpost.com/software/redub"><img src="images/redub.jpg" width="100%" alt="ReDub video translation and dubbing interface"></a><br>
-      <sup><strong>Devpost:</strong> <a href="https://devpost.com/software/redub">Redub</a></sup>
+    <td width="50%" valign="top">
+      <a href="https://devcities.dev/"><picture><source media="(max-width: 767px)" srcset="images/devcities-mobile.gif"><img src="images/devcities.gif" width="100%" height="166" alt="DevCities — a slow orbit through the city"></picture></a><br>
+      <sup><strong>DevCities:</strong> 10k+ Views, 40+ plots claimed</sup>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://kiharalab.org/pfp"><picture><source media="(max-width: 767px)" srcset="images/kiharalab-mobile.gif"><img src="images/kiharalab.gif" width="100%" height="166" alt="KiharaLab — rotating protein structure"></picture></a><br>
+      <sup><strong>KiharaLab:</strong> 4x speed optimization on lab algorithm</sup>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://devpost.com/software/redub"><picture><source media="(max-width: 767px)" srcset="images/redub-mobile.gif"><img src="images/redub.gif" width="100%" height="166" alt="ReDub — Chinese and English demo with animated audio waveform"></picture></a><br>
+      <sup><strong>Redub:</strong> 66% reduction on industry compute cost/min</sup>
     </td>
   </tr>
 </table>
