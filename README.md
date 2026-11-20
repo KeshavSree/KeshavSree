@@ -29,17 +29,17 @@ At Purdue, I'm a founding member and VP of Marketing @ Purdue Stack and Director
       <sup><strong>Stack Website:</strong> 30k+ Views</sup>
     </td>
     <td width="50%" valign="top">
-      <a href="https://devcities.dev/"><picture><source media="(max-width: 767px)" srcset="images/devcities-phone.gif"><img src="images/devcities.gif" width="100%" height="166" alt="DevCities — a slow orbit through the city"></picture></a><br>
+      <a href="https://devcities.dev/"><picture><source media="(max-width: 767px)" srcset="images/devcities-night-phone.webp"><img src="images/devcities-night.webp" width="100%" height="166" alt="DevCities — a slow orbit through the city"></picture></a><br>
       <sup><strong>DevCities:</strong> 10k+ Views, 40+ plots claimed</sup>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://kiharalab.org/pfp"><picture><source media="(max-width: 767px)" srcset="images/kiharalab-phone.gif"><img src="images/kiharalab.gif" width="100%" height="166" alt="KiharaLab — rotating protein structure"></picture></a><br>
+      <a href="https://kiharalab.org/pfp"><picture><source media="(max-width: 767px)" srcset="images/protein-only-phone.webp"><img src="images/protein-only.webp" width="100%" height="166" alt="KiharaLab — rotating protein structure"></picture></a><br>
       <sup><strong>KiharaLab:</strong> 4x speed optimization on lab algorithm</sup>
     </td>
     <td width="50%" valign="top">
-      <a href="https://devpost.com/software/redub"><picture><source media="(max-width: 767px)" srcset="images/redub-phone.gif"><img src="images/redub-demo.gif" width="100%" height="166" alt="ReDub — Chinese and English demo with animated audio waveform"></picture></a><br>
+      <a href="https://devpost.com/software/redub"><picture><source media="(max-width: 767px)" srcset="images/redub-synced-phone.webp"><img src="images/redub-synced.webp" width="100%" height="166" alt="ReDub — Chinese and English demo with animated audio waveform"></picture></a><br>
       <sup><strong>Redub:</strong> 66% reduction on industry compute cost/min</sup>
     </td>
   </tr>
