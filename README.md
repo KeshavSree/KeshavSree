@@ -25,7 +25,7 @@ At Purdue, I'm a founding member and VP of Marketing @ Purdue Stack and Director
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.purduestack.org/"><picture><source media="(max-width: 767px)" srcset="images/stack-phone.gif"><img src="images/stack.gif" width="100%" height="166" alt="Stack — Build with Impact. Build Together. Build at Stack."></picture></a><br>
+      <a href="https://www.purduestack.org/"><picture><source media="(max-width: 767px)" srcset="images/stack-motion-phone.gif"><img src="images/stack-motion.gif" width="100%" height="166" alt="Stack — Stack; Build Together; Build with Impact; Build at Stack."></picture></a><br>
       <sup><strong>Stack Website:</strong> 30k+ Views</sup>
     </td>
     <td width="50%" valign="top">
