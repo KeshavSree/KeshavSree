@@ -9,7 +9,7 @@ At Purdue, I'm a founding member and VP of Marketing @ Purdue Stack and Director
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://www.keshavsreekantham.com/"><picture><source media="(max-width: 767px)" srcset="images/portfolio-composition-phone.webp"><img src="images/portfolio-composition.webp" width="100%" height="166" alt="Keshav’s interactive portfolio"></picture></a><br>
+      <a href="https://www.keshavsreekantham.com/"><picture><source media="(max-width: 767px)" srcset="images/portfolio-large-phone.webp"><img src="images/portfolio-large.webp" width="100%" height="166" alt="Keshav’s interactive portfolio"></picture></a><br>
       <sup>keshavsreekantham.com</sup>
     </td>
   </tr>
@@ -25,7 +25,7 @@ At Purdue, I'm a founding member and VP of Marketing @ Purdue Stack and Director
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.purduestack.org/"><picture><source media="(max-width: 767px)" srcset="images/stack-wordmark-phone.gif"><img src="images/stack-wordmark.gif" width="100%" height="166" alt="Stack — Stack; Build Together; Build with Impact; Build at Stack."></picture></a><br>
+      <a href="https://www.purduestack.org/"><picture><source media="(max-width: 767px)" srcset="images/stack-large-phone.gif"><img src="images/stack-large.gif" width="100%" height="166" alt="Stack — Stack; Build Together; Build with Impact; Build at Stack."></picture></a><br>
       <sup><strong>Stack Website:</strong> 30k+ Views</sup>
     </td>
     <td width="50%" valign="top">
