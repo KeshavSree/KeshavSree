@@ -9,7 +9,7 @@ At Purdue, I'm a founding member and VP of Marketing @ Purdue Stack and Director
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://www.keshavsreekantham.com/"><picture><source media="(max-width: 767px)" srcset="images/portfolio-large-phone.webp"><img src="images/portfolio-large.webp" width="100%" height="166" alt="Keshav’s interactive portfolio"></picture></a><br>
+      <a href="https://www.keshavsreekantham.com/"><picture><source media="(max-width: 767px)" srcset="images/portfolio-centered-phone.webp"><img src="images/portfolio-centered.webp" width="100%" height="166" alt="Keshav’s interactive portfolio"></picture></a><br>
       <sup>keshavsreekantham.com</sup>
     </td>
   </tr>
