@@ -4,7 +4,7 @@ These previews were composed for Keshav Sreekantham's GitHub profile. Each proje
 
 - **Website:** a custom composition using the actual 3D model, mechanical motion functions, renderer, and Jost font from https://www.keshavsreekantham.com/. The camera frames the structure farther right while enlarged text and the original rotating descriptors occupy the left. The loop moves through Home and the four mechanical poses.
 - **ClubRecruiter:** scrolling capture of the public marketing page and its demonstration UI at https://www.clubrecruiter.app/home.
-- **Tara:** an illustrative animation of thought capture, categorization, and task completion, based on the workflow described at https://www.keshavsreekantham.com/#projects/tara. The example tasks are fictional.
+- **Tara:** a custom animated chrome orb inspired by the Siri-style reference supplied by Keshav. A dark reflective upper half, silver lower half, and moving blue-and-gold light wave sit on a plain white background.
 - **Stack:** custom motion graphics using the logo, Poppins typography, colors, and three “Build…” phrases from https://www.purduestack.org/.
 - **DevCities:** a close orbit recorded from https://devcities.dev/. The capture uses the live site’s nighttime lighting and a lower camera angle; interactive controls were hidden for recording.
 - **KiharaLab:** an illustrative protein visualization rendered using 3Dmol.js and the public ubiquitin structure [PDB 1UBQ](https://www.rcsb.org/structure/1UBQ). It illustrates the subject area; it is not a recording of the prediction algorithm. Structure coordinates: https://files.rcsb.org/download/1UBQ.pdb. Renderer: https://3dmol.org/.

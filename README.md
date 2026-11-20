@@ -19,7 +19,7 @@ At Purdue, I'm a founding member and VP of Marketing @ Purdue Stack and Director
       <sup><strong>ClubRecruiter:</strong> 3000+ Users, 8 Organizations</sup>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.keshavsreekantham.com/#projects/tara"><picture><source media="(max-width: 767px)" srcset="images/tara-phone.gif"><img src="images/tara.gif" width="100%" height="166" alt="Tara — illustrated categorization and automatic task completion"></picture></a><br>
+      <a href="https://www.keshavsreekantham.com/#projects/tara"><picture><source media="(max-width: 767px)" srcset="images/tara-orb-phone.webp"><img src="images/tara-orb.webp" width="100%" height="166" alt="Tara — gently animated Siri-style orb on white"></picture></a><br>
       <sup><strong>Tara:</strong> 20+ integrations → Auto Completing Todo List</sup>
     </td>
   </tr>
